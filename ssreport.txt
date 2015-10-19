@@ -1,0 +1,13 @@
+Project Properties Report:
+
+Name:  $/ClipCxClnt
+
+Contains:
+    23 Files             
+     1 Subprojects       
+Latest:                        Last label: 3
+  Version: 26                    Version: 26                  
+  Date:    3/06/03  16:10        Date:    3/06/03  16:10      
+
+Comment:
+  
